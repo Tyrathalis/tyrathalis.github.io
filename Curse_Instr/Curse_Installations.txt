@@ -1,0 +1,20 @@
+﻿Open desired Browser
+Go to www.curse.com
+Click on the big orange “Download Now” button (Picture01)
+If prompted “What do you want to do with…” click on save (Picture02)
+Wait for the download to finish…
+Find where it downloaded to (usually the downloads folder) then click on the file CurseClientSetup
+If prompted click on run
+Click on the Install button and then wait (Picture03)
+If prompted “Do you want to allow this app to make changes to your device?” click yes
+Then click on Launch (Picture04)
+If you don’t already have an account, create an account and follow their steps
+If you don’t see a minecraft creeper icon, go to the left bottom corner and click on the gear icon named settings (Picture05 and Picture06)
+Click on the Minecraft tab (Picture07) and toggle the “Mod Management, Let Curse manage mods for this game” option (Picture08) and then “Yes, enable Minecraft” (Picture09)
+Now click on the Creeper Icon (Picture05)
+Wait for Curse to refresh then click on “Browse FTB Modpacks” (Picture10)
+On the search bar type “Infinity Evolved” and click on “FTB Infinity Evolved”, make sure it is the one shown in the picture (Picture11)
+Then click on on the green Install button and wait
+When finished click the green Play button (Picture12)
+Then enter your minecraft username and password and wait for FTB Infinity Evolved to finish loading
+Then go to the multiplayer tab and then click direct connect and type in the Server address: [???]
